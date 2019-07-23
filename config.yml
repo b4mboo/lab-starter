@@ -9,7 +9,7 @@ description: "Check out https://github.com/github/pathfinder for more info."
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name: my-sparkles-repo
+  name: lab-starter-template
   repo: lab-starter-template
 
 # `before` block
